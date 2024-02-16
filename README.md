@@ -18,8 +18,8 @@ To run the website:
 
 ## Usage
 
-assets/example-1.png
-assets/example-2.png
+(example-1.png)
+(example-2.png)
 
 
 
