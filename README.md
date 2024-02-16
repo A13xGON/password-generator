@@ -18,8 +18,8 @@ To run the website:
 
 ## Usage
 
-(example-1.png)
-(example-2.png)
+![alt text](example-1.png)
+![alt text](example-2.png)
 
 
 
